@@ -1,0 +1,85 @@
+/* CSS Document */
+*{
+	font-family:"Adobe-Clean", "Geneva", "Tahoma", "Helvetica", "Arial", sans-serif;
+}
+#box{
+width:350px;
+height:500px;
+margin:auto;
+}
+#box .logo{
+	padding-top:9px;
+}
+#box .instruction{
+	text-align:center;
+	font-size:21px;
+	
+	font-family:"Adobe-Clean", "Geneva", "Tahoma", "Helvetica", "Arial", sans-serif;
+	color:#555;-webkit-font-smoothing:antialiased;font-weight:normal;width:100%;
+	padding-top:5px;
+}
+#box .pd_icon{
+	text-align:center;
+	width:128px;
+	margin:auto;
+	padding-top:10px;
+	
+}
+#form-1{
+	margin-top:20px;
+}
+.text-field{
+	width:320px;
+	padding: 8px 8px;
+	font-size:16px;
+	font-weight:normal;
+	font-family:Verdana, Geneva, sans-serif;
+    -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px 5px 5px 5px;
+   border: solid 1px #ccc;
+}
+.always_on{
+	font-size:14px;
+	color:#666;
+}
+.always_on_inst{
+	font-size:14px;
+	font-style:italic;
+	margin-top:5px;
+}
+.pdf-protected{
+	color:#1FACF7;
+	font-size:14px;
+}
+.btn1{
+	width:339px;
+	padding:10px;
+	color:#fff;
+	font-size:15px;
+	text-align:center;
+	 -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px 5px 5px 5px;
+   border:1px solid #009DF5;
+   cursor:pointer;
+   background-color:#009DF5;
+   transition: background-color 0.9s ease;
+}
+.btn1:hover{
+	   background-color:#2A78B8;
+}
+.footer{
+	border-top: 1px solid #ccc;
+	margin-top:70px;
+	padding-top:20px;
+}
+
+.error{
+	background-color:#FFEAEA;
+	border:1px solid #FF6C6C;
+	padding:10px;
+	 margin:auto;
+	 margin-top:30px;
+	 font-size:12px;
+}
